@@ -10,7 +10,7 @@ I'm Elangovan. I'm a Full Stack Developer who is passionate about making open-so
 
 📫 How to reach me:
 
-Website - [Elangovan.in](https://elangovan.in)
+`Website` - [Elangovan.in](https://elangovan.in)
 
 ❤️ Support my open source projects:
 
