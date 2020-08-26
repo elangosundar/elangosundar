@@ -7,7 +7,7 @@
 
 I'm Elangovan. I'm a Full Stack Developer who is passionate about making open-source projects, creating technology to elevate people, and building community.
 
-🔭 I’m currently working on opensource project [10secondsofcode](https://github.com/10secondsofcode/coding-ai) and [Postlify](https://github.com/elangosundar/postlify)
+🔭 I’m currently working on opensource project [CodingAi](https://github.com/10secondsofcode/coding-ai) and [Postlify](https://github.com/elangosundar/postlify)
 
 👯 I’m looking to collaborate on ReactJS / VueJs projects.
 
